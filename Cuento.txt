@@ -12,3 +12,4 @@ Con una estrategia audaz y palabras sabias, __________ (nombre del personaje) lo
 
 Regresando al hogar, __________ (nombre del personaje) fue recibido/a como un/a verdadero/a héroe/heroína. Su valentía y determinación habían asegurado un futuro próspero para el reino y su gente. Desde ese día en adelante, __________ (nombre del personaje) se convirtió en una leyenda viva, inspirando a otros a seguir sus pasos y perseguir sus propios sueños de aventura y descubrimiento."
 
+El delegado tiene la importante tarea de asignar a cada miembro del equipo las partes específicas de la historia que deben completar. Cada miembro se encargará de crear una "branch" de la historia, donde modificará la sección que se le ha asignado. Después de realizar los cambios, subirán sus actualizaciones a la rama correspondiente y crearán una solicitud de fusión ("merge request") con su parte completada.
